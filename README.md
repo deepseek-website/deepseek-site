@@ -1,9 +1,9 @@
 # DeepSeek | 中文官网、Deep Seek网页版 | 最全使用指南~ 【2025年5月更新】
 
->更新时间: 2025-05-19
+>更新时间: 2025-06-27
 
 轻松使用 **DeepSeek 网页版**，**快速稳定、不卡顿**，**支持 DeepSeek R1 满血版 以及 ChatGPT o1、o3 大模型**。   
-本指南提供全面的 **DeepSeek 使用说明**，包含[**DeepSeek 官网平替**](https://xsimplechat.com)、[**DeepSeek网页版**](https://chat.lanjing.pro)、**API使用**、**DeepSeek 本地部署教程**，助您顺畅使用 DeepSeek 和 ChatGPT ~
+本指南提供全面的 **DeepSeek 使用说明**，包含[**DeepSeek 官网平替**](https://xsimplechat.com)、[**DeepSeek网页版**](https://chat.lanjingai.org)、**API使用**、**DeepSeek 本地部署教程**，助您顺畅使用 DeepSeek 和 ChatGPT ~
 
 ---
 
@@ -15,15 +15,14 @@
 
 最新发布的 DeepSeek R1 满血版不仅在性能上媲美了 OpenAI 的 o1、o3，且以对手 3% 的超低成本实现了这一突破。
 
-![DeepSeek官网](https://files.mdnice.com/user/75077/8afcd1f8-bb3b-4311-9f26-916472b80b6a.png)
-
-
 ## 更便捷更快速的使用DeepSeek-R1
 这里是DeepSeek AI导航，您可以从下方进入官网使用、也可以选择第三方平台。
 
 [ 🏠 官网入口 deepseek.com](https://www.deepseek.com) 
 
-[ ⚡ 高速版 chat.yixiaai.com](https://xsimplechat.com)
+[ ⚡ 高速版 xsimplechat.com](https://xsimplechat.com)
+
+[ ⚡ 无限制版 chat.lanjingai.org](https://chat.lanjingai.org)
 
 ---
 
